@@ -4,7 +4,7 @@ This is a simple custom made bottom  bubble navigation bar.
 
 ## Project Demo 
 
-Project video link
+Project video link https://www.youtube.com/shorts/eep1FB9N3W0
 
 
 
@@ -18,7 +18,9 @@ Project video link
 
 ## Screenshots
 
+![photo_2022-03-06_19-20-19](https://user-images.githubusercontent.com/70539485/156926168-37e6bb40-ac07-48dd-949e-186485238af3.jpg)
 
+![photo_2022-03-06_19-20-18](https://user-images.githubusercontent.com/70539485/156926170-7480f03c-b172-4bce-b6e2-a01bd95cc8cd.jpg)
 
 ## Dependency 
 
